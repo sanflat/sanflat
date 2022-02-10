@@ -16,9 +16,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanflat&theme=nord_bright)
 
-<img src="https://github.com/sanflat/sanflat/blob/main/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
-
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
