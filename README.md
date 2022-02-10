@@ -14,21 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanflat&theme=onedark)](https://github.com/sanflat/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanflat&theme=nord_bright)
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 18 Contributions in the Year 2022
- > 
-> 📦 84.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -51,23 +37,6 @@ Sunday       16 commits     █████░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -78,12 +47,4 @@ CSS                      3 repos             ████░░░░░░░�
 Ruby                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/sanflat/sanflat/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/02/2022 19:36:03 UTC
 <!--END_SECTION:waka-->
